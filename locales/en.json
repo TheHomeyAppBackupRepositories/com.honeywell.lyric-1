@@ -1,0 +1,4 @@
+{
+  "unavailable": "This device is currently unavailable",
+  "rateLimited": "The Honeywell API is blocking your requests due to exceeded rate limits"
+}
